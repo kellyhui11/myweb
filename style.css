@@ -1,0 +1,22 @@
+body{
+   text-align: center;
+}
+.btn{
+  border: solid 3px black;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 40px;
+  color: #FB24FF;
+  background-color: #FFD0FF;
+}
+h1{
+  font-size: 50px;
+  color: #FF0000;
+  font-family: 標楷體;
+}
+h2{
+  font-size: 55px;
+  color: #1500FF;
+  font-family: 標楷體;
+}
